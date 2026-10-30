@@ -13,9 +13,14 @@ Demo link: https://sawfan1.github.io/ping-pong/
 # Game Screenshot
 
 ![Ping Pong game preview](preview.png)
+Footage from inside the game
 
 # Development
 
 The website uses the trio HTML, CSS and JS to render and function properly. The computer AI was the hardest to create. The game logic is inside `index.js` and is responsible for moving the paddle, updating positions, drawing the animations, handling input and counting scores.
+
+# Future Plans
+
+I will definitely add some music and sound effects and maybe a dedicated pause-menu just in case players want to take a quick bathroom break (haha)
 
 Don't forget to star the project if you enjoyed playing!
