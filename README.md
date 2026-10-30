@@ -2,7 +2,9 @@
 
 Play Pong! This is a recreation / implementation of the classic pong game, that you can play with the computer. Don't slack off! The bot won't go easy on you.
 
-You lose a point if the the ball hits your side of the wall and gain a point when the opposite happens.
+You lose a point if the the ball hits your side of the wall and gain a point when the opposite happens. Guard your side, play for as like as you like.
+
+To reset the scores, refresh the page.
 
 **Controls**: Use up and down arrows to move your paddle
 
